@@ -11,3 +11,11 @@
 [McEliece in Sage (GitHub)](https://github.com/davidhoo1988/Code_Based_Cryptography_Python/blob/master/src/GoppaCode.sage#L112)
 
 [Patterson Algo (StackExchange)](https://crypto.stackexchange.com/questions/100420/pattersons-decoding-algorithm-for-goppa-codes)
+
+[Syndrome decoding of Goppa Codes (StackExchange)](https://crypto.stackexchange.com/questions/108566/syndrome-computation-pattersons-algorithm)
+
+[Useful info for calculating a(x), b(x) in Patterson algo](https://groups.google.com/g/sage-support/c/jNLlKyH2KAw)
+
+[Goppa implementation using sage](https://bitbucket.org/jsrn/codinglib/src/master/goppa.sage)
+
+[Patterson algo implementation in sage](https://juaninf.blogspot.com/2013/04/function-make-div-with-id-mycell-sage.html)
