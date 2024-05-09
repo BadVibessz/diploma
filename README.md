@@ -19,3 +19,9 @@
 [Goppa implementation using sage](https://bitbucket.org/jsrn/codinglib/src/master/goppa.sage)
 
 [Patterson algo implementation in sage](https://juaninf.blogspot.com/2013/04/function-make-div-with-id-mycell-sage.html)
+
+[Large parameters of Goppa Code (StackExchange)](https://ask.sagemath.org/question/56410/goppa-codes-cannot-create-decoder-with-large-parameters/)
+
+[SQRT in GF(2^m) (StackExchange)](https://crypto.stackexchange.com/questions/17988/algorithm-for-computing-square-roots-in-gf2n)
+
+[Does every polynomial over a finite field have a square root modulo an irreducible polynomial?](https://math.stackexchange.com/questions/2814886/does-every-polynomial-over-a-finite-field-have-a-square-root-modulo-an-irreducib)
